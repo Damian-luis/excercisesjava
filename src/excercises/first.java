@@ -5,10 +5,12 @@ public class first {
         int entero=1;
         long grande=4846845;
         double decimal=1890;
+        boolean valor=true;
         String string="example";
         System.out.println(entero);
         System.out.println(grande);
         System.out.println(decimal);
         System.out.println(string);
+        System.out.println(valor);
     }
 }
